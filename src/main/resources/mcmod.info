@@ -1,0 +1,8 @@
+[{
+  "modid": "altmanager",
+  "name": "Alt Manager",
+  "description": "Switch between offline (cracked) accounts from the main menu, like a client alt manager.",
+  "version": "${version}",
+  "mcversion": "1.8.9",
+  "authorList": ["KernelSpecter"]
+}]
